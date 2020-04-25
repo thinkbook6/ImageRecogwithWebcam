@@ -71,6 +71,7 @@ def recognize_image(img_path, list_foods):
             break
 
 
+# Webcam capture
 
 
 key = cv2. waitKey(1)
